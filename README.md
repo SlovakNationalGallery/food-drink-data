@@ -4,6 +4,7 @@ food-drink-data
 metadata and images of artworks containing food or drink motif
 
 ##other resources
+* thumbnails jpg package: [food-drink-nahlady.zip] (http://isg.cedvu.sk/share/food-drink-nahlady.zip) [139 files, 25 mb]
 * [OAI-PMH data provider] (http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Food_and_Drink) (OAI Protocol for Metadata Harvesting that serves records using XML format)
 * browse [Food&Drink collection at webumenia.sk](http://www.webumenia.sk/web/guest/search/-/results?orderBy=RELEVANCE&page=1&items=28&query=jedlo&layout=gridLayout&images=true&searchFor=tags)
 
